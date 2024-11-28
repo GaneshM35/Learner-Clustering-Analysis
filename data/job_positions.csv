@@ -1,0 +1,930 @@
+job_position,count,filler
+backend engineer,43551,Backend Engineer
+fullstack engineer,25975,Fullstack Engineer
+other,18070,Others
+frontend engineer,10417,Frontend Engineer
+engineering leadership,6870,Technical lead
+qa engineer,6588,QA Engineer
+data scientist,5365,Data Scientist
+android engineer,5357,Android Engineer
+sdet,4968,Software Engineer
+devops engineer,4614,Devops Engineer
+support engineer,3602,Support Engineer
+data analyst,2905,Data Analyst
+ios engineer,2745,iOS Engineer
+engineering intern,2692,Engineering Intern
+product designer,1314,Product Designer
+backend architect,1287,Backend Engineer
+research engineers,1229,Research Engineer
+product manager,1161,Manager 
+program manager,814,Manager 
+non coder,595,Non Coder
+database administrator,550,Database Administrator
+cofounder,374,Co founder
+security leadership,148,Technical lead
+release engineer,126,Software Engineer
+senior  software engineer,55,Senior Software Engineer
+system engineer,48,System Engineer
+intern,42,Engineering Intern
+software engineer backend,42,Software Engineer
+associate software engineer,27,Software Engineer
+sde 2,26,Software Engineer
+engineer,25,Software Engineer
+student,25,Student
+sde2,23,Software Engineer
+software engineer 2,22,Software Engineer
+research engineer,21,Research Engineer
+consultant,20,Software Engineer
+project engineer,19,Software Engineer
+sde 1,17,Software Engineer
+software  engineer,17,Software Engineer
+software development engineer  i,16,Software Engineer
+senior engineer,15,Senior Software Engineer
+member of technical staff,15,Software Engineer
+lead software engineer,14,Software Engineer
+software development engineer  ii,14,Software Engineer
+senior software developer,14,Senior Software Engineer
+assistant system engineer,14,System Engineer
+associate,13,Software Engineer
+senior consultant,12,Senior Software Engineer
+data engineer,12,Data Engineer
+technology analyst,12,Analyst
+software engineer 1,12,Software Engineer
+associate consultant,12,Software Engineer
+team lead,11,Technical lead
+software engineer ii,11,Software Engineer
+sde 3,10,Software Engineer
+senior software engineer backend,10,Senior Software Engineer
+senior systems engineer,10,Senior Software Engineer
+software engineer full stack,10,Software Engineer
+programmer analyst,10,Analyst
+software engineer i,9,Software Engineer
+sde1,9,Software Engineer
+machine learning engineer,9,ML Engineer
+software development engineer 2,8,Software Engineer
+associate  software  engineer ,8,Software Engineer
+software developer 1,7,Software Engineer
+manual tester,7,Tester
+principal software engineer,7,Software Engineer
+analyst programmer,6,Analyst
+sr software engineer,6,Software Engineer
+application development analyst,6,Application Engineer
+senior software  development engineer,6,Senior Software Engineer
+application engineer,6,Application Engineer
+full stack engineer,6,Fullstack Engineer
+senior system engineer,6,System Engineer
+software development engineer 2 ,6,Software Engineer
+software developer 2,6,Software Engineer
+trainer,6,Trainer
+programmer analyst trainee,6,Trainee
+android application developer,6,Android Engineer
+associate software developer,6,Software Engineer
+assistant manager,6,Manager 
+software engineer  ii,5,Software Engineer
+software enginner,5,Software Engineer
+intern  software developer,5,Engineering Intern
+na,5,Others
+sde3,5,Software Engineer
+software development engineer  2,5,Software Engineer
+senior associate ,5,Senior Software Engineer
+assistant professor,5,Teacher
+application developer analyst,5,Application Engineer
+senior developer,5,Software Engineer
+senior data engineer,5,Data Engineer
+senior software engineeer,5,Software Engineer
+product developer,4,Software Engineer
+software engineer android,4,Software Engineer
+associate analyst,4,Analyst
+member technical staff,4,Software Engineer
+consultant ,4,Software Engineer
+senior software development engineer,4,Software Engineer
+business technology analyst,4,Business analysts 
+software engineer iii,4,Software Engineer
+no,4,Others
+senior analyst,4,Analyst
+software analyst,4,Analyst
+senior associate,4,Others
+associate developer,4,Software Engineer
+software test engineer,4,Software Engineer
+senior data scientist,4,Data Scientist
+mts,4,Software Engineer
+technical leader,4,Technical lead
+tech lead software engineer,4,Software Engineer
+mts2,4,Software Engineer
+research assistant,4,Research Engineer
+ase,3,Others
+automation engineer,3,Others
+sdet2,3,Software Engineer
+sde ii,3,Software Engineer
+application development senior analyst,3,Application Engineer
+sdeii,3,Software Engineer
+engineering manager ii,3,Manager 
+lecturer,3,Teacher
+software engineer intern,3,Software Engineer
+quantitative analyst,3,Analyst
+platform engineer,3,Others
+application development associate,3,Application Engineer
+junior software developer,3,Software Engineer
+software eng,3,Software Engineer
+product development engineer,3,Software Engineer
+software development enginner,3,Software Engineer
+software development intern,3,Engineering Intern
+system software engineer,3,Software Engineer
+fresher,3,Trainee
+software development engineer intern,3,Engineering Intern
+engineer 1,3,Others
+vice president,3,Others
+quality associate,3,Others
+manager,3,Manager 
+software  web developer,3,Software Engineer
+lead engineer  software development,3,Technical lead
+project lead,3,Technical lead
+programmer analyst ,3,Analyst
+software engineer  frontend,3,Software Engineer
+software consultant,3,Software Engineer
+staff software engineer,3,Software Engineer
+senior member of technical staff,3,Others
+trainee,3,Trainee
+full stack devloper,3,Fullstack Engineer
+assistant system engineer  trainee,3,System Engineer
+teacher,3,Teacher
+member of technical staff 2,3,Software Engineer
+test analyst,3,Analyst
+module lead,3,Technical lead
+associate consultant  developer,2,Software Engineer
+ml engineer,2,ML Engineer
+lead,2,Technical lead
+software engineer 3,2,Software Engineer
+software developer ii,2,Software Engineer
+solution engineer,2,Others
+firmware engineer ,2,Others
+not applicable,2,Others
+senior systems engineer ,2,Others
+smts,2,Software Engineer
+business consultant ,2,Business analysts 
+teaching assistant,2,Teacher
+specialist programmer pp,2,Others
+customer service executive,2,Others
+front end developer,2,Frontend Engineer
+architect team lead,2,Solutions Architect
+solutions architect,2,Solutions Architect
+technical  consultant,2,Software Engineer
+member of technical staff java,2,Others
+test automation engineer,2,Tester
+software development engineer  iii,2,Software Engineer
+design engineer,2,Others
+7,2,Others
+project associate,2,Others
+driver,2,Others
+sales,2,Sales
+mainframe developer,2,Software Engineer
+tester,2,Tester
+sr software engineer ,2,Software Engineer
+lead analyst,2,Technical lead
+research analyst,2,Analyst
+assistant engineer,2,Others
+software engineer in test,2,Software Engineer
+no job,2,Others
+software developer i,2,Software Engineer
+rd engineer,2,Others
+application developer 2,2,Application Engineer
+sw engineer 2,2,Others
+system engineer ,2,System Engineer
+integration developer ,2,Software Engineer
+associate system engineer,2,System Engineer
+computer scientist 1,2,Others
+mts  ii,2,Software Engineer
+human resource,2,Others
+cto,2,Others
+software development engineer 1,2,Software Engineer
+data science analyst,2,Data Scientist
+sde intern,2,Engineering Intern
+senior development engineer,2,Software Engineer
+software engineer associate,2,Software Engineer
+senior android developer,2,Android Engineer
+so,2,Others
+assistant system engineer trainee,2,System Engineer
+performance engineer,2,Others
+sdet senior,2,Software Engineer
+teaching,2,Teacher
+software developer intern,2,Engineering Intern
+business analysts ,2,Business analysts 
+owner,2,Others
+embedded software engineer,2,Software Engineer
+automation developer,2,Software Engineer
+software developer data engineer,2,Data Engineer
+student intern,2,Engineering Intern
+senior manager,2,Manager 
+senior software analyst,2,Analyst
+sdei,2,Software Engineer
+technical support engineer,2,Support Engineer
+project leader,2,Technical lead
+mobile application developer,2,Software Engineer
+graduate engineer  trainee,2,Trainee
+network administrator ,2,Network administrator
+technician,2,Others
+dot net developer,2,Software Engineer
+applications engineer,2,Application Engineer
+sr technical architect,2,Solutions Architect
+site reliability engineer,2,Others
+server engineer,2,Others
+data scientist 2,2,Data Scientist
+engineering intern ,2,Engineering Intern
+branch manager,2,Manager 
+associate application developer,2,Software Engineer
+escalation engineer,2,Others
+salesforce developer,2,Application Engineer
+process associate,2,Others
+specialist programmer,2,Others
+associate engineer,2,Others
+administrator,2,Administrator
+director engineering,2,Others
+sap abap developer,1,Software Engineer
+pat,1,Others
+not employed,1,Others
+graduate engineer trainee,1,Trainee
+associate professional developer,1,Software Engineer
+r  d engineer,1,Others
+senior engineer aiml,1,ML Engineer
+talent acquisition sspecialist,1,Others
+software engineeradvanced analytics,1,Software Engineer
+senior consulant,1,Software Engineer
+sr software engg,1,Software Engineer
+some random title,1,Others
+senior chat associate,1,Others
+developer 2,1,Software Engineer
+solution integration consultant i,1,Software Engineer
+machine learning developer,1,ML Engineer
+machine learning intern,1,Engineering Intern
+software developer  pl10,1,Software Engineer
+senior system engineer ,1,System Engineer
+principal application engineer,1,Software Engineer
+member technical staff 2,1,Others
+package iimplementation associate,1,Others
+finance and accounting ,1,Accounting
+software prod  plat eng analyst,1,Analyst
+devlopment engineer,1,Others
+transaction risk investigator ,1,Others
+operations analyst,1,Analyst
+lead  mis,1,Technical lead
+software engineer analyst ,1,Software Engineer
+risk analyst,1,Analyst
+sr lead engineer,1,Technical lead
+sr,1,Others
+pdp executive,1,Others
+reseller,1,Others
+front end engineer,1,Frontend Engineer
+senior associate platform l1,1,Others
+software development consultant 1,1,Software Engineer
+qa intern,1,Engineering Intern
+junior associate technology,1,Others
+radio frequency engineer,1,Others
+lead android developer,1,Technical lead
+senior front end engineer,1,Frontend Engineer
+assistant system enginner,1,System Engineer
+professional ,1,Others
+software qa,1,QA Engineer
+software developer grade1,1,Software Engineer
+sre,1,Others
+sdet  intern,1,Engineering Intern
+software development engineer in test,1,Software Engineer
+software engineer 2 backend,1,Software Engineer
+91,1,Others
+associate futures engineering team,1,Others
+associate processor,1,Others
+quality analyst,1,Analyst
+delivery project lead,1,Technical lead
+site reliability engineer ,1,Others
+sr executive ,1,Others
+hod,1,Others
+web application developer,1,Software Engineer
+graduate software developer,1,Software Engineer
+erp consultant,1,Software Engineer
+student in computer application,1,Student
+web engineer,1,Others
+senior executive,1,Others
+computer scientist 2,1,Others
+project assistant ,1,Others
+tsc,1,Others
+senior mobile developer,1,Software Engineer
+manager ,1,Manager 
+project trainee,1,Trainee
+application developmentaassociate,1,Application Engineer
+implementation engineer,1,Others
+associate professor ,1,Teacher
+program manager intern,1,Manager 
+personal banker,1,Others
+full stack web developer,1,Fullstack Engineer
+react native developer,1,Software Engineer
+medical field,1,Others
+professional application delivery i,1,Software Engineer
+electric power supply,1,Others
+applied scientist ii,1,Others
+sde  ii,1,Software Engineer
+operations lead,1,Technical lead
+head of analytics,1,Analyst
+technology architect,1,Solutions Architect
+entrepreneurship ,1,Others
+kam,1,Others
+sr software engineerandroid,1,Software Engineer
+senior sdet,1,Software Engineer
+self job,1,Others
+senior qa engineer,1,QA Engineer
+tech person,1,Others
+technology analyst ii,1,Analyst
+professional services engineer,1,Others
+associate data engineer,1,Data Engineer
+associate data scientist,1,Data Scientist
+senior administrator ,1,Administrator
+team lead  android,1,Technical lead
+team manager,1,Manager 
+senior solution engineer ,1,Others
+senior database engineer,1,Database Administrator
+senior software engineer front end,1,Software Engineer
+technical consultant,1,Software Engineer
+senior product development engineer senior developer,1,Software Engineer
+mean stack developer,1,Software Engineer
+business process lead,1,Business analysts 
+decision analytics associate,1,Analyst
+member technical,1,Others
+software engineer traineeml,1,Software Engineer
+front end dev,1,Frontend Engineer
+associate technical support,1,Support Engineer
+automation engineer ,1,Others
+software qa engineer,1,QA Engineer
+senior research associate,1,Research Engineer
+founders office,1,Co founder
+air force,1,Others
+principal solution architect,1,Solutions Architect
+software associate,1,Software Engineer
+software engineering analyst,1,Software Engineer
+jr prod specialist,1,Others
+farmer,1,Others
+sr ios developer,1,iOS Engineer
+chief people officer,1,Others
+it mmanager,1,Manager 
+internship,1,Engineering Intern
+back office executive admin,1,Administrator
+senior software engineer 1,1,Software Engineer
+software development engineer  intern,1,Engineering Intern
+senior software development engineer in test,1,Software Engineer
+software development engineer 3,1,Software Engineer
+sap cpq consultant,1,Software Engineer
+associate system engineer ,1,System Engineer
+software engineer l2,1,Software Engineer
+operations manager ,1,Manager 
+sr product engineer,1,Software Engineer
+interndata analyst,1,Engineering Intern
+lead software development engineer,1,Technical lead
+technical engineer ,1,Others
+principal consultant,1,Software Engineer
+senior member technical staff,1,Others
+developer  production support,1,Support Engineer
+machine learning engineer intern,1,Engineering Intern
+network software engineer,1,Software Engineer
+test technician specialist,1,Tester
+entrepreneur,1,Others
+principle member of technical staff,1,Others
+technical support engineer ,1,Support Engineer
+senior software development engineer backend,1,Backend Engineer
+software development engineering intern,1,Engineering Intern
+sap technical consultant,1,Software Engineer
+product develloper,1,Software Engineer
+senior technical specialist ,1,Others
+automation architect,1,Solutions Architect
+consultant development,1,Software Engineer
+senior enginner,1,Others
+assisatnt system engineer,1,System Engineer
+senior quantitative analyst,1,Analyst
+tecchnical lead,1,Technical lead
+assistant manager  capital market ,1,Manager 
+content manager intern,1,Manager 
+oracle lead dba,1,Technical lead
+associate l1,1,Others
+senior analysts,1,Analyst
+h,1,Others
+softwear engineer,1,Software Engineer
+software engineering intern,1,Software Engineer
+tuition teacher,1,Others
+subject matter expert,1,Others
+software engineer   programmer analyst,1,Software Engineer
+lead consultant technology,1,Technical lead
+new graduate,1,Others
+voice president,1,Others
+senior frontend engineer,1,Frontend Engineer
+scientist  c,1,Others
+engineer trainee,1,Trainee
+software engineer  2,1,Software Engineer
+network administrator,1,Network administrator
+java microservices developer,1,Software Engineer
+l4,1,Others
+any technical,1,Others
+senior software engineer lead,1,Software Engineer
+asset management coordinator,1,Others
+quality assurance manager,1,Manager 
+software development manager,1,Manager 
+operation,1,Others
+oracle dba,1,Others
+software engineer 2b,1,Software Engineer
+member of technical staff mts,1,Software Engineer
+pa,1,Others
+analyst  software engineer,1,Software Engineer
+cloud security analyst,1,Cloud Engineer
+senior software engineer net backend,1,Software Engineer
+junior consultant,1,Software Engineer
+underwriting officer,1,Others
+zomato,1,Others
+associate system engineertrainee,1,System Engineer
+technical head,1,Others
+services it development program senior associate ,1,Software Engineer
+solution architect  apprentice,1,Solutions Architect
+data operations manager,1,Manager 
+third party provider,1,Others
+staff developer,1,Software Engineer
+data visualization engineer,1,Others
+sr associate platform l2,1,Others
+assosiate software engineer,1,Software Engineer
+technology associate,1,Others
+management executive,1,Others
+sap abap developer ,1,Software Engineer
+fibre engineer,1,Others
+737,1,Others
+senior lead analyst,1,Technical lead
+middleware engineer,1,Others
+sr technical manager,1,Manager 
+strategy and new initiatives,1,Others
+cant reveal,1,Others
+technical mentor,1,Others
+software,1,Software Engineer
+member of technical staff level 2,1,Others
+business operations new associate,1,Business analysts 
+product engineer backend,1,Backend Engineer
+pune,1,Others
+support,1,Support Engineer
+big data developer,1,Software Engineer
+business development,1,Business analysts 
+senior software development enggineer,1,Software Engineer
+support escalation engineer,1,Support Engineer
+teammate,1,Others
+linux administrator ,1,Linux administrator
+senior software engineer qa,1,Software Engineer
+senior technical assistant,1,Others
+audit manager,1,Manager 
+data eingineer,1,Others
+core engineer software developer,1,Software Engineer
+process executive ,1,Others
+graduate programmer,1,Others
+associate tech lead,1,Technical lead
+wordpress developer,1,Software Engineer
+research intern  machine learning,1,Engineering Intern
+machine learning data associate ,1,ML Engineer
+front end web developer,1,Frontend Engineer
+vendor management,1,Others
+research assistant  software engineer,1,Software Engineer
+lead engineer ii,1,Technical lead
+coo,1,Others
+n,1,Others
+jharkhand,1,Others
+web developer full stack,1,Fullstack Engineer
+associate technology,1,Others
+technical consulting ,1,Software Engineer
+data entry,1,Others
+senior test engineer,1,Tester
+it coordinator,1,Others
+eno,1,Others
+senior system specialist,1,Others
+relationship officer,1,Others
+senior business analyst,1,Business analysts 
+power plant engineer,1,Others
+software engineer android intern,1,Software Engineer
+senior administrator,1,Administrator
+integration,1,Others
+risk investigator,1,Others
+se4,1,Others
+857628,1,Others
+power platform developer ,1,Software Engineer
+member of technical staff 3,1,Others
+member of technical staff 4,1,Others
+agency collection manager,1,Manager 
+administrative clerk,1,Administrator
+sdet 3,1,Software Engineer
+technology specialist ,1,Others
+it analyst,1,Analyst
+seniorsoftwareengineer,1,Software Engineer
+programmer analyst 2,1,Analyst
+programmar analyst,1,Analyst
+software engineer  operations,1,Software Engineer
+trainee engineer java developer,1,Trainee
+data scientist ii,1,Data Scientist
+principal engineer and imaging leader,1,Technical lead
+software engineer  testing,1,Software Engineer
+international coding instructor,1,Engineering Intern
+java software engineer,1,Software Engineer
+cloud software engineer ,1,Cloud Engineer
+linux system administrator,1,Linux administrator
+analytics and insite devloper,1,Analyst
+software engineering lead,1,Software Engineer
+software engineer  i,1,Software Engineer
+senior frontend developer,1,Frontend Engineer
+secretary,1,Others
+ios  swift developer,1,iOS Engineer
+developer associate,1,Software Engineer
+mts3,1,Software Engineer
+associate product lead,1,Technical lead
+fullstack web developer,1,Fullstack Engineer
+compliance auditor,1,Auditor
+trainer ,1,Trainee
+android lead,1,Technical lead
+cloud data architect,1,Cloud Engineer
+aspnet developer,1,Software Engineer
+data associate,1,Others
+software dev engineer 1,1,Software Engineer
+a group chat application,1,Others
+atm interface system,1,Others
+calculator,1,Others
+senior member of technical staff  rd  machine learning,1,ML Engineer
+service delivery specialist,1,Others
+business system analyst,1,Business analysts 
+traineeintern,1,Trainee
+lead consultant,1,Technical lead
+user experience specialist,1,Others
+associate professional,1,Others
+principal engineer  1,1,Others
+data warehouse developer,1,Software Engineer
+unempolyed,1,Others
+software engineer iv,1,Software Engineer
+member technical staff iii,1,Others
+associate principal engineer,1,Others
+data engineer iii,1,Data Engineer
+advisory system analyat,1,Advisory
+mts 3,1,Software Engineer
+full stack developer intern,1,Fullstack Engineer
+software engineering  engineer 2,1,Software Engineer
+highway engineer,1,Others
+front end developer ,1,Frontend Engineer
+operations expert,1,Others
+sr software engg  android,1,Android Engineer
+mechanical engineers,1,Others
+iaas  engineer,1,Others
+tech architecture,1,Solutions Architect
+bengaluru,1,Others
+system admin,1,Administrator
+automation test engineer,1,Tester
+seleceman,1,Others
+se ii,1,Others
+dataproduct engineer,1,Software Engineer
+flutter app engineer,1,Others
+product specialist,1,Software Engineer
+learning web designing,1,Others
+software devloper,1,Software Engineer
+solution architect cloud and infra,1,Cloud Engineer
+crc,1,Others
+automation test enginner,1,Tester
+shift controller,1,Others
+application engineer ii,1,Application Engineer
+salesforce consultant,1,Application Engineer
+erp application developer,1,Software Engineer
+leisure manager,1,Manager 
+devopscloud engineer,1,Devops Engineer
+chief technology officer,1,Others
+junior web developer,1,Software Engineer
+etl developer,1,Software Engineer
+exchange coordinator,1,Others
+sr hr executive,1,Others
+sr solution architect,1,Solutions Architect
+erp associate,1,Others
+team lead mobile,1,Technical lead
+business development executive,1,Business analysts 
+graphic designer,1,Others
+pop,1,Others
+area business manager,1,Business analysts 
+software developer automation,1,Software Engineer
+specialist,1,Others
+software dev engineer,1,Software Engineer
+software developer  ios,1,Software Engineer
+lead software engineer in test,1,Software Engineer
+phd student,1,Student
+soft skill trainer at skill india government project,1,Trainee
+head scientist,1,Others
+graduate research assistant,1,Research Engineer
+operations manager,1,Manager 
+associate manager,1,Manager 
+assistant,1,Others
+web designerdeveloper intern,1,Engineering Intern
+mts intern,1,Engineering Intern
+member of technical staff  2,1,Others
+software engineering contractor,1,Software Engineer
+application development team lead,1,Application Engineer
+software enginnering specialist,1,Software Engineer
+web designer,1,Others
+manager candidate,1,Manager 
+assistant system engineer ,1,System Engineer
+member technial staff,1,Others
+sql plsql developer,1,Software Engineer
+associate technical lead,1,Technical lead
+data analayst,1,Others
+data engineer 2,1,Data Engineer
+business analyst  product owner,1,Business analysts 
+consultanat,1,Software Engineer
+senior software engineer  infrastructure,1,Software Engineer
+associate interactive developer l2,1,Software Engineer
+digital content associate,1,Others
+technical test lead,1,Technical lead
+data specialist,1,Data Scientist
+sr ios engineer,1,iOS Engineer
+advisor,1,Advisory
+software engineering,1,Software Engineer
+automation expert,1,Others
+bda,1,Others
+sr consultant,1,Software Engineer
+summer technology analyst software developer intern,1,Engineering Intern
+ios application developer,1,iOS Engineer
+sde  3 ,1,Software Engineer
+frontend developer,1,Frontend Engineer
+auditor,1,Auditor
+q,1,Others
+senior fusion applications engineer,1,Software Engineer
+cto and co founder,1,Co founder
+security intern,1,Engineering Intern
+pop engineer ,1,Others
+online reputation manager,1,Manager 
+graduate intern,1,Engineering Intern
+fusion applications engineer,1,Software Engineer
+intern developer,1,Engineering Intern
+principal applications engineer,1,Software Engineer
+ucm,1,Others
+ays,1,Others
+network function virtualisation,1,Network administrator
+risk model developer,1,Software Engineer
+technical manager ,1,Manager 
+member technical staff zoho,1,Others
+senior process executive,1,Others
+operation executive,1,Others
+senior web developer,1,Software Engineer
+azure data factory,1,Others
+qaqc engineer,1,QA Engineer
+insurance agent ,1,Others
+sde lead,1,Technical lead
+fb service,1,Others
+android developer sr executive,1,Android Engineer
+software engineerrd intern ,1,Software Engineer
+ui developer intern,1,Engineering Intern
+reseach analyst,1,Analyst
+ai engineer,1,Others
+safety officer,1,Others
+key account manager,1,Accounting
+cyber security engineer,1,Others
+senior software engineerl2,1,Software Engineer
+member of technical staff at nineleaps,1,Others
+staff consultant,1,Software Engineer
+7033771951,1,Others
+software developer  android,1,Android Engineer
+associate it engineer,1,Others
+cloud engineer,1,Cloud Engineer
+pgt computer science,1,Others
+senior staff software engineer,1,Software Engineer
+seller support,1,Support Engineer
+senior qa engineer iii,1,QA Engineer
+project management profession,1,Others
+software development specialist,1,Software Engineer
+senior software consultant,1,Software Engineer
+senior applications engineer,1,Software Engineer
+associate project manager ,1,Manager 
+java back end developer,1,Backend Engineer
+lead ui engineer,1,Technical lead
+senior ui enginner,1,Others
+talent acquisition specialist,1,Others
+snr analyst programmerjava developer,1,Analyst
+business man,1,Business analysts 
+senior associate  index technology  production support,1,Support Engineer
+clerk,1,Others
+marketing professional ,1,Others
+lead design engineer,1,Technical lead
+application development,1,Application Engineer
+freelance,1,Others
+quality enginner,1,Others
+web  ui designer,1,Others
+now iam not working waiting for job,1,Others
+android facilitator,1,Android Engineer
+solutions specialist,1,Others
+tech manager,1,Manager 
+senior webmethods developer,1,Software Engineer
+sde 4,1,Software Engineer
+bta,1,Others
+senior director of engineering,1,Others
+applications engineer 2,1,Application Engineer
+managercx,1,Manager 
+hvac algorithm developer,1,Software Engineer
+design specialist,1,Others
+sap c4c functional consultant,1,Software Engineer
+application developer 1,1,Application Engineer
+oracle apps technical consultant,1,Software Engineer
+sde 1 ,1,Software Engineer
+technical architecct,1,Solutions Architect
+senior project engineer,1,Others
+module lead software engineer,1,Software Engineer
+assistant regional sales manager,1,Manager 
+pmo,1,Others
+customer support specialist,1,Support Engineer
+info technology sr associate,1,Others
+application developer frontend,1,Application Engineer
+ios software developer,1,Software Engineer
+credit risk manager,1,Manager 
+member technical staff 1,1,Others
+firmware software engineer l,1,Software Engineer
+senior sofware engineer,1,Others
+reasearch engineer,1,Others
+assistant professor ,1,Teacher
+typing,1,Others
+zomato ,1,Others
+associate system engineer  trainee,1,System Engineer
+ sde 2,1,Software Engineer
+product solution engineer,1,Software Engineer
+project officer ,1,Others
+deputy general manager,1,Manager 
+senior quantitative researcher,1,Research Engineer
+senior mobile applications developer androidios,1,Android Engineer
+account,1,Accounting
+software developer  ui,1,Software Engineer
+cloud ,1,Cloud Engineer
+sales ,1,Sales
+messenger come driver,1,Others
+associate application engineer,1,Software Engineer
+sr representative ,1,Others
+x,1,Others
+instructional apprentice,1,Others
+software developer sde3,1,Software Engineer
+executive software developer,1,Software Engineer
+pragrammer analyst,1,Analyst
+storw,1,Others
+program analyst trainee,1,Trainee
+r  d engineer2,1,Others
+subinspector,1,Others
+finance lead,1,Technical lead
+technology consultant,1,Software Engineer
+junior front end eng,1,Frontend Engineer
+engeneering lead,1,Technical lead
+abap developer,1,Others
+bdm,1,Others
+engineering lead  ai,1,Technical lead
+iot consultant,1,Software Engineer
+advisory software engineer,1,Software Engineer
+city transport lead,1,Technical lead
+mobile application engineerandroid  ios,1,Android Engineer
+security researcher ,1,Research Engineer
+sales professional,1,Sales
+software engineer rd,1,Software Engineer
+fresher student,1,Student
+edp admin,1,Administrator
+engineet,1,Others
+techinical lead,1,Technical lead
+programmer analyst 1,1,Analyst
+other ,1,Others
+ba,1,Others
+others,1,Others
+sr operation executive,1,Others
+cashier,1,Others
+senior analyst programmer,1,Analyst
+digital marketing,1,Others
+senior devops,1,Devops Engineer
+quality analyst ,1,Analyst
+employee,1,Others
+principal product engineer,1,Software Engineer
+java devloper,1,Others
+retail asscociate,1,Others
+production engineering senior analyst,1,Analyst
+896651,1,Others
+business analyst lead,1,Business analysts 
+ui architect,1,Solutions Architect
+systems analyst,1,Analyst
+software developer consultant,1,Software Engineer
+mechanical engineering ,1,Others
+associate director online products,1,Software Engineer
+senior manager online products,1,Manager 
+executive operation ,1,Others
+operation associate,1,Others
+software development analyst,1,Analyst
+trainee decision scientist,1,Trainee
+senior software test engineer,1,Software Engineer
+maintenance engineer ,1,Others
+senior associate technology level1,1,Others
+office management,1,Others
+junior developer,1,Software Engineer
+growth manager,1,Manager 
+matlab programmer,1,Others
+serd,1,Others
+rd enginner ii,1,Others
+it trainee,1,Trainee
+growth,1,Others
+business analytics ,1,Business analysts 
+sr developer,1,Software Engineer
+system engineerfullstack developer,1,System Engineer
+advisory consultant  uiux expert,1,Advisory
+compliance operation ,1,Others
+nce,1,Others
+software engineering coop,1,Software Engineer
+software engineer iii  sde2 ,1,Software Engineer
+analyst consultant,1,Analyst
+assistant engineer trainee,1,Trainee
+engineering team lead,1,Technical lead
+basis administrator,1,Administrator
+instructor,1,Others
+worker,1,Others
+senior tech architect ,1,Solutions Architect
+sr mis executive,1,Others
+software engineer 2 full stack,1,Software Engineer
+senior business operations analyst,1,Business analysts 
+some data entry operator like some copys writetype and upload,1,Others
+assosiate product manager,1,Manager 
+research engineer 2,1,Research Engineer
+linux administrator,1,Linux administrator
+co foundercto,1,Co founder
+teaching assistant ,1,Teacher
+sharepoint developer,1,Software Engineer
+computer faculty,1,Others
+senior manager it,1,Manager 
+security delivery specialist,1,Others
+webcenter consultant,1,Software Engineer
+tool room engineer mechanical engineer ,1,Others
+tx sme,1,Others
+lead software developer,1,Technical lead
+area operations manager,1,Manager 
+it executive,1,Others
+developer asociate,1,Software Engineer
+engineering program manager,1,Manager 
+seller support associate,1,Support Engineer
+professor,1,Teacher
+security analyst ,1,Analyst
+hardware engineer,1,Others
+young professional ii,1,Others
+asst manager,1,Manager 
+business development manager,1,Business analysts 
+telar,1,Others
+forex,1,Others
+sps associate,1,Others
+tech lead team lead ,1,Technical lead
+networking,1,Network administrator
+software development engineer ,1,Others
+assistant software engineer ,1,Software Engineer
+solutions designer,1,Others
+cofounderg,1,Co founder
+mulesoft developer,1,Software Engineer
+embedded software development engineer,1,Software Engineer
+jr software engineer,1,Software Engineer
+software development engineer iii,1,Software Engineer
+software development engineer iv,1,Software Engineer
+quality engineer,1,Others
+database developer,1,Database Administrator
+software developerapplication developer,1,Software Engineer
+applied scientist,1,Others
+digital marketing manager ,1,Manager 
+techops engineer 1,1,Others
+credit risk ,1,Others
+integration engineer,1,Others
+senior software development engineer ii,1,Software Engineer
+deputy manager,1,Manager 
+sales manager,1,Manager 
+head of engineering,1,Others
+cloud support associate,1,Cloud Engineer
+technical associate,1,Others
+technical program program,1,Others
+auditing,1,Auditor
+associate technical engineer ,1,Others
+senior application engineer,1,Software Engineer
+engineer 2,1,Others
+electrical technician,1,Others
+lead product engineer,1,Technical lead
+loan processing,1,Others
+senior web engineer,1,Others
+software development engineer 1 ,1,Software Engineer
+python devloper,1,Others
+recovery officer,1,Others
+associate product manager,1,Manager 
+core tech engineer  researcher,1,Research Engineer
+senior engineer software,1,Software Engineer
+backend engineering,1,Backend Engineer
+engineer i,1,Others
+associate coder,1,Others
+financial analyst,1,Analyst
+associate applications developer,1,Software Engineer
+staff engineermgr,1,Others
+teaching field,1,Teacher
+systems operations engineer,1,Others
+freelance sde,1,Software Engineer
+freelancer,1,Others
+senior software engineering,1,Software Engineer
+researcher,1,Research Engineer
+toyota,1,Others
+qaeintern,1,Engineering Intern
+ta,1,Others
+technical officer,1,Others
+it engineer,1,Others
+teacher ,1,Teacher
+app developer,1,Application Engineer
+software development ,1,Software Engineer
+catagory manager,1,Manager 
+logistics supply chain,1,Others
+servicenow developer,1,Software Engineer
+maricketing,1,Others
+sales and collection executive ,1,Sales
+rd engineer ii,1,Others
